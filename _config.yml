@@ -1,1 +1,13 @@
 include: [ ".well-known" ]
+
+remote_theme: jekyll/minima
+
+title: v1993's website
+
+author:
+  name: v19930312
+  email: v19930312@gmail.com
+
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/v1993" }
