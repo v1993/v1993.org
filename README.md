@@ -1,1 +1,1 @@
-# Visit [v1993.org](https://v1993.org/) to see properly rendered version
+# Visit [v1993.org](https://v1993.org/) to see the properly rendered version

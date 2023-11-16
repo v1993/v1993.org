@@ -1,5 +1,8 @@
 include: [ ".well-known" ]
 
+plugins:
+  - jekyll-feed
+
 remote_theme: jekyll/minima
 
 title: v1993's website
