@@ -147,7 +147,7 @@ namespace BuildCArgs {
 Using a namespace is not required, but great for clarity. Once again, access like any other variable:
 
 ```vala
-print("Current log domain: %s\n", BuildConfig.VERSION);
+print("Current log domain: %s\n", BuildCArgs.G_LOG_DOMAIN);
 ```
 
 ## Adding gettext support
