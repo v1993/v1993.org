@@ -14,3 +14,6 @@ author:
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/v1993" }
+
+excerpt_separator: <!--more-->
+show_excerpts: true

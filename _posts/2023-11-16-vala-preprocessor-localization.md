@@ -4,19 +4,19 @@ title: "Vala: using localization and build-time options"
 categories: vala
 ---
 
-* TOC
-{:toc}
-
-## Introduction
-
 This post is intended as a guide for those who
 
 * Want to pass data at build time to their Vala project
 * Want to use gettext in their Vala project
 
+<!--more-->
+
 I haven't found any existing tutorials on this matter, so I've decided to make one myself.
 
 For the purpose of this article, I'll assume you're using [Meson build system](https://mesonbuild.com) - it's a de-facto standard among Vala projects and is pretty nice overall. Additionally, it makes build-side gettext setup very easy.
+
+* TOC
+{:toc}
 
 ## Build-time options in Vala
 
